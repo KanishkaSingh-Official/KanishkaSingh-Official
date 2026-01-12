@@ -18,9 +18,7 @@ I am an **MBA (Finance & Operations)** candidate at G.L. Bajaj Institute of Tech
 ---
 
 ### 📂 Portfolio Highlights
-* **Travel Operations MIS:** Developed Excel dashboards to track operational metrics, costs, margins, and service performance for Breakaway Tours.
-* **Supply Chain Optimization:** Warehouse KPI reports, process mapping, and inventory tracking using ABC analysis.
-* **Financial Analysis:** Budget reports, profit & loss statements, and working capital analysis.
+
 * **[Breakaway Tours MIS](https://github.com/KanishkaSingh-Official/Breakaway-Tours-MIS-Dashboard):** Operational MIS system for tracking profit margins and vendor costs.
 * **[Warehouse Optimization](https://github.com/KanishkaSingh-Official/Warehouse-Inventory-Optimization):** Inventory tracking using ABC Analysis and Safety Stock logic.
 * **[Fintech Credit Risk](https://github.com/KanishkaSingh-Official/Fintech-Credit-Risk-Model):** Financial modeling to assess borrower risk profiles.
