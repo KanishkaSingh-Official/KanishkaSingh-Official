@@ -16,6 +16,11 @@ I am an **MBA (Finance & Operations)** candidate at G.L. Bajaj Institute of Tech
 | 🏨 Vendor & Stakeholder Mgmt  | 📊 Excel-based MIS Dashboards |
 
 ---
+### 📜 Certifications & Achievements
+- 🎓 **MBA Dual Specialization:** Operations & Finance (GL Bajaj, 2026 Batch)
+- 📈 **Financial Markets:** Certified by Finlatics (Equity Research & Portfolio Mgmt).
+- 🏭 **Operations:** Knowledge of Six Sigma Principles & Lean Management.
+- 🏆 **Startup:** Co-Founder of Breakaway Tours (Revenue Generating Venture).
 
 ### 📂 Portfolio Highlights
 
